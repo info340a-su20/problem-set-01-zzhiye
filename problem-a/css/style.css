@@ -1,16 +1,20 @@
+/* Body */
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 16px;
 }
 
+/* Paragraphs */
 p {
     line-height: 1.5;
 }
 
+/* Images */
 img {
     max-height: 400px;
 }
 
+/* Class for making texts green */
 .greentext {
     color: green;
 }
